@@ -6,8 +6,8 @@
 	<string name="password">PASSWORD</string>
 	<string name="show_password">Show password</string>
 	<string name="login">Log In</string>
-	<string name="ssid">ttuweb</string>
-	<string name="err_ssid_msg">You are not connected to ttuweb</string>
+	<string name="ssid">TCFSH</string>
+	<string name="err_ssid_msg">You are not connected to TCFSH</string>
 	<string name="url">http://securelogin.arubanetworks.com/cgi-bin/login</string>
 
 	<string-array name="params_name">
